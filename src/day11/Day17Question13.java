@@ -19,7 +19,7 @@ public class Day17Question13 {
 		 if (num <0)
 			System.out.println("negative num"+num);
 	{
-	
 	}
+	System.out.println("if number positve nor negative +num");
 }
-
+}
