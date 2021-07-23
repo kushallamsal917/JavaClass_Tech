@@ -1,6 +1,6 @@
 package day11;
 
-public class Day17Question18LargestNumberofThreevalue {
+public class Day17Question18 {
 
 	public static void main(String[] args) {
 

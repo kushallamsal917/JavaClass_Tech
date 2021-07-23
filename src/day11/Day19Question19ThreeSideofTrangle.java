@@ -2,7 +2,7 @@ package day11;
 
 import java.util.Scanner;
 
-public class Day17Question19ThreeSideofTrangle {
+public class Day19Question19ThreeSideofTrangle {
 
 	public static void main(String[] args) {
 
