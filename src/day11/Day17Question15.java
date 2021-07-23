@@ -9,18 +9,15 @@ public class Day17Question15 {
 		
 
 	Scanner input = new Scanner (System.in);
-	System.out.println(input 
-	
-	int number = input.nextInt();
-	System.out.println();
-		}
+	System.out.println("Enter number 0-128:");	
+	int n = input.nextInt();
+	if (n >= 0 && n <= 128)	{	
+		char c = (char)n;
+		System.out.println("ASCII character code is:"+c);
+	}
 
 		
-		
-		
-		
-		
-		
+	}
 
 	}
 	
